@@ -4,4 +4,4 @@
 <img src="https://i.hizliresim.com/5jaiw9r.jpg"></img>
 <br>
 
-### NOT: Projenin MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
+### NOT: Projenin MIT lisansı bulunmaktadır. Bu Projenin dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
